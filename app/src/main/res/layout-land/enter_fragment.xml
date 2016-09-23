@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/btn_login_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/Enter"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/mybtn3"
+        android:onClick="enter"
+        android:textColor="@color/whiteColor"
+        android:text="@string/enter_text"
+        android:textSize="20dp" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Patient Tacker</string>
+    <string name="enter_text">Enter</string>
+    <string name="name_text_hint">Enter Patient Name </string>
+    <string name="tel_text_hint">Patient Tel Number</string>
+    <string name="Email_txt_hint"> Patient E_mail</string>
+    <string name="date_text_hint">Date Of Arrival</string>
+    <string name="time_text_hint">Time Of Arrival</string>
+    <string name="Disease_txt_hint">Patient Disease</string>
+    <string name="Medication_txt_hint">Medication </string>
+    <string name="Coast_text_hint">   Cost </string>
+    <string name="save_text">Save</string>
+    <string name="Cancel_text">Cancel</string>
+    <string name="date_picker_title">Date of Patient Arrival:</string>
+    <string name="time_picker_title">Time of Patient Arrival:</string>
+    <string name="new_patient">New Patient</string>
+    <string name="search_patient">Search Patient</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s patients</string>
+    <string name="delete_patient">Delete Patient</string>
+</resources>
